@@ -20,4 +20,4 @@ Connect to the network:
 
     /connect freenode
 
-And you're in! Now go [register your nick with NickServ](../NickServ-quickstart.md).
+And you're in! Now [register your nick with NickServ](../NickServ-quickstart.md).
