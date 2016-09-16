@@ -6,11 +6,11 @@ Open irssi:
 
 Add a network:
 
-    /network add -nick $YOURNICK -user $YOURUSER
+    /network add -nick $YOURNICK -user $YOURUSER $NETWORKNAME
 
 For instance:
 
-    /network add -nick WillemMali -user WillemMali
+    /network add -nick WillemMali -user WillemMali freenode
 
 Add a server for the network you just added (you can have multiple alternative servers for each network):
 
